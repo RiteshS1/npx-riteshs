@@ -1,0 +1,28 @@
+{
+  "name": "riteshs",
+  "version": "1.0.0",
+  "description": "Profile info of Sir Ritesh Sharma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+  "riteshs": "./index.js"
+  },
+  "author": "Ritesh Sharma",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "clivas": "^0.2.0",
+    "colors": "^1.4.0",
+    "figlet": "^1.8.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.3.3",
+    "keypress": "^0.2.1",
+    "nanospinner": "^1.2.2",
+    "readline-sync": "^1.4.10",
+    "terminal-link": "^3.0.0"
+  }
+}
